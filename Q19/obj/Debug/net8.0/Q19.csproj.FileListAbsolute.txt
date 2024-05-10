@@ -1,0 +1,14 @@
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\bin\Debug\net8.0\Q19.exe
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\bin\Debug\net8.0\Q19.deps.json
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\bin\Debug\net8.0\Q19.runtimeconfig.json
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\bin\Debug\net8.0\Q19.dll
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\bin\Debug\net8.0\Q19.pdb
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\obj\Debug\net8.0\Q19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\obj\Debug\net8.0\Q19.AssemblyInfoInputs.cache
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\obj\Debug\net8.0\Q19.AssemblyInfo.cs
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\obj\Debug\net8.0\Q19.csproj.CoreCompileInputs.cache
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\obj\Debug\net8.0\Q19.dll
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\obj\Debug\net8.0\refint\Q19.dll
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\obj\Debug\net8.0\Q19.pdb
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\obj\Debug\net8.0\Q19.genruntimeconfig.cache
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q19\obj\Debug\net8.0\ref\Q19.dll
