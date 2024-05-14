@@ -1,0 +1,14 @@
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\obj\Debug\net8.0\Q53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\obj\Debug\net8.0\Q53.AssemblyInfoInputs.cache
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\obj\Debug\net8.0\Q53.AssemblyInfo.cs
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\obj\Debug\net8.0\Q53.csproj.CoreCompileInputs.cache
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\bin\Debug\net8.0\Q53.exe
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\bin\Debug\net8.0\Q53.deps.json
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\bin\Debug\net8.0\Q53.runtimeconfig.json
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\bin\Debug\net8.0\Q53.dll
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\bin\Debug\net8.0\Q53.pdb
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\obj\Debug\net8.0\Q53.dll
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\obj\Debug\net8.0\refint\Q53.dll
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\obj\Debug\net8.0\Q53.pdb
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\obj\Debug\net8.0\Q53.genruntimeconfig.cache
+C:\Users\minhl\OneDrive\Desktop\Ass C sharp\Q53\obj\Debug\net8.0\ref\Q53.dll
