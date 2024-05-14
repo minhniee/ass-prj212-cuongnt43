@@ -1,0 +1,14 @@
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\obj\Debug\net8.0\Q95.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\obj\Debug\net8.0\Q95.AssemblyInfoInputs.cache
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\obj\Debug\net8.0\Q95.AssemblyInfo.cs
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\obj\Debug\net8.0\Q95.csproj.CoreCompileInputs.cache
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\bin\Debug\net8.0\Q95.exe
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\bin\Debug\net8.0\Q95.deps.json
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\bin\Debug\net8.0\Q95.runtimeconfig.json
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\bin\Debug\net8.0\Q95.dll
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\bin\Debug\net8.0\Q95.pdb
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\obj\Debug\net8.0\Q95.dll
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\obj\Debug\net8.0\refint\Q95.dll
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\obj\Debug\net8.0\Q95.pdb
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\obj\Debug\net8.0\Q95.genruntimeconfig.cache
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q95\obj\Debug\net8.0\ref\Q95.dll

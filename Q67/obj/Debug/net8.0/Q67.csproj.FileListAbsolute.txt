@@ -1,0 +1,14 @@
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\bin\Debug\net8.0\Q67.exe
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\bin\Debug\net8.0\Q67.deps.json
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\bin\Debug\net8.0\Q67.runtimeconfig.json
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\bin\Debug\net8.0\Q67.dll
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\bin\Debug\net8.0\Q67.pdb
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\obj\Debug\net8.0\Q67.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\obj\Debug\net8.0\Q67.AssemblyInfoInputs.cache
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\obj\Debug\net8.0\Q67.AssemblyInfo.cs
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\obj\Debug\net8.0\Q67.csproj.CoreCompileInputs.cache
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\obj\Debug\net8.0\Q67.dll
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\obj\Debug\net8.0\refint\Q67.dll
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\obj\Debug\net8.0\Q67.pdb
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\obj\Debug\net8.0\Q67.genruntimeconfig.cache
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q67\obj\Debug\net8.0\ref\Q67.dll

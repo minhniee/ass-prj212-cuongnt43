@@ -1,0 +1,14 @@
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\bin\Debug\net8.0\Q63.exe
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\bin\Debug\net8.0\Q63.deps.json
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\bin\Debug\net8.0\Q63.runtimeconfig.json
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\bin\Debug\net8.0\Q63.dll
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\bin\Debug\net8.0\Q63.pdb
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\obj\Debug\net8.0\Q63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\obj\Debug\net8.0\Q63.AssemblyInfoInputs.cache
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\obj\Debug\net8.0\Q63.AssemblyInfo.cs
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\obj\Debug\net8.0\Q63.csproj.CoreCompileInputs.cache
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\obj\Debug\net8.0\Q63.dll
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\obj\Debug\net8.0\refint\Q63.dll
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\obj\Debug\net8.0\Q63.pdb
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\obj\Debug\net8.0\Q63.genruntimeconfig.cache
+C:\Users\minhl\OneDrive\Desktop\New Folder\Q63\obj\Debug\net8.0\ref\Q63.dll
