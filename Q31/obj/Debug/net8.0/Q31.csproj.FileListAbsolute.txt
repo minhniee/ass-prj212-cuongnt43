@@ -1,0 +1,14 @@
+C:\Users\minhl\source\repos\Q31\bin\Debug\net8.0\Q31.exe
+C:\Users\minhl\source\repos\Q31\bin\Debug\net8.0\Q31.deps.json
+C:\Users\minhl\source\repos\Q31\bin\Debug\net8.0\Q31.runtimeconfig.json
+C:\Users\minhl\source\repos\Q31\bin\Debug\net8.0\Q31.dll
+C:\Users\minhl\source\repos\Q31\bin\Debug\net8.0\Q31.pdb
+C:\Users\minhl\source\repos\Q31\obj\Debug\net8.0\Q31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhl\source\repos\Q31\obj\Debug\net8.0\Q31.AssemblyInfoInputs.cache
+C:\Users\minhl\source\repos\Q31\obj\Debug\net8.0\Q31.AssemblyInfo.cs
+C:\Users\minhl\source\repos\Q31\obj\Debug\net8.0\Q31.csproj.CoreCompileInputs.cache
+C:\Users\minhl\source\repos\Q31\obj\Debug\net8.0\Q31.dll
+C:\Users\minhl\source\repos\Q31\obj\Debug\net8.0\refint\Q31.dll
+C:\Users\minhl\source\repos\Q31\obj\Debug\net8.0\Q31.pdb
+C:\Users\minhl\source\repos\Q31\obj\Debug\net8.0\Q31.genruntimeconfig.cache
+C:\Users\minhl\source\repos\Q31\obj\Debug\net8.0\ref\Q31.dll

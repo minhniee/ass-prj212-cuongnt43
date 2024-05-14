@@ -1,0 +1,14 @@
+C:\Users\minhl\source\repos\Q28\obj\Debug\net8.0\Q28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhl\source\repos\Q28\obj\Debug\net8.0\Q28.AssemblyInfoInputs.cache
+C:\Users\minhl\source\repos\Q28\obj\Debug\net8.0\Q28.AssemblyInfo.cs
+C:\Users\minhl\source\repos\Q28\obj\Debug\net8.0\Q28.csproj.CoreCompileInputs.cache
+C:\Users\minhl\source\repos\Q28\bin\Debug\net8.0\Q28.exe
+C:\Users\minhl\source\repos\Q28\bin\Debug\net8.0\Q28.deps.json
+C:\Users\minhl\source\repos\Q28\bin\Debug\net8.0\Q28.runtimeconfig.json
+C:\Users\minhl\source\repos\Q28\bin\Debug\net8.0\Q28.dll
+C:\Users\minhl\source\repos\Q28\bin\Debug\net8.0\Q28.pdb
+C:\Users\minhl\source\repos\Q28\obj\Debug\net8.0\Q28.dll
+C:\Users\minhl\source\repos\Q28\obj\Debug\net8.0\refint\Q28.dll
+C:\Users\minhl\source\repos\Q28\obj\Debug\net8.0\Q28.pdb
+C:\Users\minhl\source\repos\Q28\obj\Debug\net8.0\Q28.genruntimeconfig.cache
+C:\Users\minhl\source\repos\Q28\obj\Debug\net8.0\ref\Q28.dll

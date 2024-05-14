@@ -1,0 +1,14 @@
+C:\Users\minhl\source\repos\Q30\bin\Debug\net8.0\Q30.exe
+C:\Users\minhl\source\repos\Q30\bin\Debug\net8.0\Q30.deps.json
+C:\Users\minhl\source\repos\Q30\bin\Debug\net8.0\Q30.runtimeconfig.json
+C:\Users\minhl\source\repos\Q30\bin\Debug\net8.0\Q30.dll
+C:\Users\minhl\source\repos\Q30\bin\Debug\net8.0\Q30.pdb
+C:\Users\minhl\source\repos\Q30\obj\Debug\net8.0\Q30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minhl\source\repos\Q30\obj\Debug\net8.0\Q30.AssemblyInfoInputs.cache
+C:\Users\minhl\source\repos\Q30\obj\Debug\net8.0\Q30.AssemblyInfo.cs
+C:\Users\minhl\source\repos\Q30\obj\Debug\net8.0\Q30.csproj.CoreCompileInputs.cache
+C:\Users\minhl\source\repos\Q30\obj\Debug\net8.0\Q30.dll
+C:\Users\minhl\source\repos\Q30\obj\Debug\net8.0\refint\Q30.dll
+C:\Users\minhl\source\repos\Q30\obj\Debug\net8.0\Q30.pdb
+C:\Users\minhl\source\repos\Q30\obj\Debug\net8.0\Q30.genruntimeconfig.cache
+C:\Users\minhl\source\repos\Q30\obj\Debug\net8.0\ref\Q30.dll
